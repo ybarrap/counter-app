@@ -5,6 +5,6 @@ class Counter extends Component {
         return <div><h1>Hello World</h1></div>;
     }
 }
-
+//added comment
 export default Counter;
  
